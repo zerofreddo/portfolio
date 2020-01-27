@@ -7,6 +7,7 @@ body {
   background-color: #f1f1f1;
   padding: 20px;
   font-family: Arial;
+}
 
 /* Centers Website */
 .main {
@@ -15,7 +16,7 @@ body {
 }
 
 .img {
-  box-shadow: 35px 40px #111111;
+  box-shadow: 5px 5px 3px #111111;
 
 }
 
