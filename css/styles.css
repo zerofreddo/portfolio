@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 
-/* within body, sets background color and font.*/
+/* within body, sets background color, padding and font type.*/
 body {
   background-color: #f1f1f1;
   padding: 20px;
@@ -29,7 +29,7 @@ h1 {
   margin: 8px -16px;
 }
 
-/* Add padding BETWEEN each column (if you want) */
+/* Add padding BETWEEN each column */
 .row,
 .row > .column {
   padding: 8px;
