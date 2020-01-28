@@ -15,6 +15,7 @@ body {
   margin: auto;
 }
 
+/* Gives images a shadow. */
 .img {
   box-shadow: 5px 5px 3px #111111;
 
